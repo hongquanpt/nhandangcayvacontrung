@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+streamlit-autorefresh
+opencv-python
+numpy
+pandas
+requests
+openpyxl
+gtts
+pillow
