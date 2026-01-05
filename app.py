@@ -52,9 +52,9 @@ except Exception:
 APP_NAME = "CuteID 🪲🌿 — Nhận diện côn trùng & thực vật (NO BBOX)"
 
 # Lấy API key từ env (không hard-code)
-PLANTNET_API_KEY = "2b10h0g5knI9zkfmSeANOfjkPu"
-INSECT_ID_API_KEY = "mGqkBybFTtcovHBhfI6quqEJPHrpCGTwjYvV6yTFFSL1Q6Hjhn"
-WIKI_USER_AGENT_DEFAULT = "SpeciesReader/1.0 (contact: nguyenhongquan122002@gmail.com)" 
+PLANTNET_API_KEY = "xxx"
+INSECT_ID_API_KEY = "xxx"
+WIKI_USER_AGENT_DEFAULT = "SpeciesReader/1.0 (contact: xxx@gmail.com)" 
 
 DATA_ROOT = "data"
 COLLECTION_DIR = os.path.join(DATA_ROOT, "Bo_suu_tap")
